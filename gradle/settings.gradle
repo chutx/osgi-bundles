@@ -1,0 +1,6 @@
+rootProject.name = 'osgi-spring-batch'
+
+include 'batch-admin', 'osgi-batch-admin'
+
+include 'simple-bundle'
+
